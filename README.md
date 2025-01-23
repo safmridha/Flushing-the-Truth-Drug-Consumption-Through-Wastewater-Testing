@@ -1,4 +1,4 @@
-The following study was conducted to analyze the wastewater drug metabolite concentrations across six Canadian cities to unveil trends in Unprescribed and Prescribed drug usage within these cities. 
+The following study was conducted to analyze the wastewater drug metabolite concentrations across seven Canadian cities to unveil trends in Unprescribed and Prescribed drug usage within these cities. 
 These trends helped shed light on factors affecting the ongoing drug crises in Canada. The findings were based on a study conducted by Statistics Canada, that monitored the drug metabolite concentrations
 every month from the years 2022 to 2023. 
 
